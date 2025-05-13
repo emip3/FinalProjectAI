@@ -5,3 +5,10 @@ The python code extracts a zip file (dataset) from a Google Drive. I imagine any
 
 Also, the .ipybn file is also included —it can be changed into a Jupiter Notebook too for flexibility; however the intrested person must manually do said changes.
 The resulting CSV file is also included.
+
+Since the .zip file is so big, here is the Google Drive url to download it: 
+https://drive.google.com/file/d/1Blhh_G2MRH7TUquwwuqJf5ME7n6kgTmz/view?usp=drive_link
+
+And here is the Google Colab Notebook url with the Python (.ipybn):
+https://colab.research.google.com/drive/1Q3pu7yynZpWlaOVdO4yv3UOhOZrc0MbC?usp=sharing
+
